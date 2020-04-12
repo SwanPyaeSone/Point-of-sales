@@ -1,14 +1,15 @@
-Arduino-based Point-of-sales system 
+မင်္ဂလာပါ
+2D3D ကို Online ကနေ ကစားလိုရပါသည်
+ဆက်သွယ်ရန် Phone= 09401624056
 
-I made a point-of-sales system using Arduino, a receipt printer, a 20x4 LCD and a keyboard
- on October 13, 2012. I thought it would be a good exercise for me because I really wanted
- a reason to use the Adafruit receipt printer and I would have an example of an embedded 
- systems project that was complicated enough to require a state machine. I've documented 
- all the hardware and software at:
+
+
+
+
  
  http://speedysignals.wordpress.com/2012/11/22/arduino-based-point-of-sales-system/
  
-  Dependencies (libraries used)
+ (Taunggyi boy)
   ------------
   
   Adafruit Thermal Printer Library
@@ -19,10 +20,10 @@ I made a point-of-sales system using Arduino, a receipt printer, a 20x4 LCD and 
   Streaming
   Arduino 1.0
   
-  Authors
+  RockMobile
   -------
   
-  Andrew Ong 
+  SWAN PYAE SONE
   
   
   
